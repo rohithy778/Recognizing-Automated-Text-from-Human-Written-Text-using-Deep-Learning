@@ -24,8 +24,7 @@ Embedding
 
 SHAP: SHAP aids in model refinement by identifying influential features, fostering both the development of more robust models and the enhancement of domain-specific insights.
 
-image1
-
+![img1](image1.JPG)
 Deep Learning Models:
 - Dense network.
 - LSTM
