@@ -50,6 +50,7 @@ Evaluation Metrics
 ### Dataset 1
 
 image2
+![img2](image2.JPG)
 
 Key Takeaways:
 - XGBoost performs better than LSTM, GRU, Bi-LSTM
