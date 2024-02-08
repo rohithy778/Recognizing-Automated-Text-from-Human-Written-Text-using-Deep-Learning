@@ -66,6 +66,7 @@ While pre-trained BERT models are extremely powerful, they can be overkill for s
 Confusion Matrix for Fine-Tuned BERT on Dataset – 1 (76 records)
 
 image 3
+![img1](image3.JPG)
 
 SHAP – Beeswarm plot for XGBoost Model – Dataset 1
 
